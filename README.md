@@ -39,3 +39,25 @@ Linear Regression model to predict MPG based on Vehicle Length, Vehicle Weight, 
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   Yes, almost 67% of the MPG data points can be predicted by the two variables. (R-squared = 0.67)
+
+---
+
+## Part 2: Create Visualizations for the Trip Analysis
+
+###Total summary
+![](Images/part2_1.png)
+
+---
+
+###Lot summary (Data is groupd by Manufacturer Lot)
+![](Images/part2_2.png)
+
+---
+
+Mean and median are almost the same in total and for each lot. However, the variance should not exceed 100. based on this criterion, we are doing great in total but the Lot3 should take some measure into consideration to recuce the variance since it is 70% more than the treshold.
+
+---
+
+## Part 3: T-Tests on Suspension Coils
+
+
