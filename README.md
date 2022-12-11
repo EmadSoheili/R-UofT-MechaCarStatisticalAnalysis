@@ -24,7 +24,8 @@ Linear Regression model to predict MPG based on Vehicle Length, Vehicle Weight, 
   
   ---
   
-###The Regression Line Equation</br>
+### The Regression Line Equation
+
 ***MPG = 6.08 * vehicle_length  +  3.57 * ground_clearance - 91.56***
   
   ---
@@ -44,13 +45,13 @@ Linear Regression model to predict MPG based on Vehicle Length, Vehicle Weight, 
 
 ## Part 2: Create Visualizations for the Trip Analysis
 
-###Total summary
+### Total summary
 
 ![](Images/part2_1.png)
 
 ---
 
-###Lot summary (Data is groupd by Manufacturer Lot)
+### Lot summary (Data is groupd by Manufacturer Lot)
 
 ![](Images/part2_2.png)
 
