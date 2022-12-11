@@ -45,11 +45,13 @@ Linear Regression model to predict MPG based on Vehicle Length, Vehicle Weight, 
 ## Part 2: Create Visualizations for the Trip Analysis
 
 ###Total summary
+
 ![](Images/part2_1.png)
 
 ---
 
 ###Lot summary (Data is groupd by Manufacturer Lot)
+
 ![](Images/part2_2.png)
 
 ---
