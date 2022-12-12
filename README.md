@@ -79,19 +79,19 @@ As illustrated, the **P-value is 0.06**, Thus there is not enough evidence to re
 
  2. T-test to see if there is a statistical difference between mean of the subset including only Lot1 data and 1500 as the mean of population?
 
-![](Images/part3_1.png)
+![](Images/part3_2.png)
 
 As illustrated, the **P-value is 1**, Thus there is not enough evidence to reject H0. Therefore, ***there is no statistical difference between the Lot1 sample subset's mean and the population mean***.
 
  3. T-test to see if there is a statistical difference between mean of the subset including only Lot2 data and 1500 as the mean of population?
 
-![](Images/part3_1.png)
+![](Images/part3_3.png)
 
 As illustrated, the **P-value is 0.61**, Thus there is not enough evidence to reject H0. Therefore, ***there is no statistical difference between the Lot2 sample subset's mean and the population mean***.
 
  4. T-test to see if there is a statistical difference between mean of the subset including only Lot3 data and 1500 as the mean of population?
 
-![](Images/part3_1.png)
+![](Images/part3_4.png)
 
 As illustrated, the **P-value is 0.42**, Thus H0 is rejected. Therefore, ***there is statistical difference between the Lot3 sample subset's mean and the population mean***.
 
