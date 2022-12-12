@@ -115,13 +115,13 @@ Steps of the study:
     * if P-value > 0.05, then there is not enough evidence to reject H0. Maybe with a higher alpha (lower confidence level) we can reject H0.
 
 #### Sum up
- * What metric or metrics are you going to test?
+ * What metric or metrics are you going to test? </br>
 Cost: Vehicle cost + Maintenance cost for 5 years
- * What is the null hypothesis or alternative hypothesis?
+ * What is the null hypothesis or alternative hypothesis? </br>
 H0: Our products Cost mean is not less than markets Cost mean
- * What statistical test would you use to test the hypothesis? And why?
+ * What statistical test would you use to test the hypothesis? And why? </br>
 one-sample t-test, with 0.05 as alpha and one-way test.
- * What data is needed to run the statistical test?
+ * What data is needed to run the statistical test? </br>
 We need below data for our products and other manufacturer products:
 Manufacturer, Vehicle Name (Optional), Vehicle Type (Optional), Vehicle Cost, Maintenance Cost for first 5 years.
 
