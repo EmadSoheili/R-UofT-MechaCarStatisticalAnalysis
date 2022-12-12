@@ -10,6 +10,8 @@ __pycache__/
 .Python
 .DS_Store
 .idea
+.RData
+.Rhistory
 build/
 develop-eggs/
 dist/
