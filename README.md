@@ -63,4 +63,39 @@ Mean and median are almost the same in total and for each lot. However, the vari
 
 ## Part 3: T-Tests on Suspension Coils
 
+In this part four different t-tests has been executed and the result are as below.
+H0: There is no difference between the mean of data and population mean.
+Alpha is 0.05.
+
+---
+
+ 1. T-test to see if there is a statistical difference between mean of the whole dataset (All manufacturer) and 1500 as the mean of population?
+
+![](Images/part3_1.png)
+
+As illustrated, the **P-value is 0.06**, Thus there is not enough evidence to reject H0. Therefore, ***there is no statistical difference between the whole sample's mean and the population mean***.
+
+---
+
+ 2. T-test to see if there is a statistical difference between mean of the subset including only Lot1 data and 1500 as the mean of population?
+
+![](Images/part3_1.png)
+
+As illustrated, the **P-value is 1**, Thus there is not enough evidence to reject H0. Therefore, ***there is no statistical difference between the Lot1 sample subset's mean and the population mean***.
+
+ 3. T-test to see if there is a statistical difference between mean of the subset including only Lot2 data and 1500 as the mean of population?
+
+![](Images/part3_1.png)
+
+As illustrated, the **P-value is 0.61**, Thus there is not enough evidence to reject H0. Therefore, ***there is no statistical difference between the Lot2 sample subset's mean and the population mean***.
+
+ 4. T-test to see if there is a statistical difference between mean of the subset including only Lot3 data and 1500 as the mean of population?
+
+![](Images/part3_1.png)
+
+As illustrated, the **P-value is 0.42**, Thus H0 is rejected. Therefore, ***there is statistical difference between the Lot3 sample subset's mean and the population mean***.
+
+---
+
+### Part 4: Design a Study Comparing the MechaCar to the Competition
 
