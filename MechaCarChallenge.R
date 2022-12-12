@@ -13,3 +13,13 @@ susp_df <- read.csv('Suspension_Coil.csv')
 total_summary <- summarize(susp_df, Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI))
 
 lot_summary <- group_by(susp_df, Manufacturing_Lot) %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI))
+
+
+# Part 3
+t.test(susp_df$PSI, mu=1500)
+
+lot1 <- subset(susp_df, Manufacturing_Lot == 'Lot1')
+lot2 <- subset(susp_df, Manufacturing_Lot == 'Lot2')
+lot3 <- subset(susp_df, Manufacturing_Lot == 'Lot3')
+
+t.test (lot1$PSI, mu=1500)
